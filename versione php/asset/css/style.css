@@ -1,0 +1,17 @@
+/* variabili */
+:root{
+    --headerBackground: #303a46;
+    --bodyBackground: #202d3b;
+}
+
+header{
+    background-color: var(--headerBackground);
+}
+
+body{
+    background-color: var(--bodyBackground);
+}
+
+.card{
+    background-color: var(--headerBackground);
+}
